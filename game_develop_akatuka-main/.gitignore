@@ -1,0 +1,99 @@
+# Unity
+.utmp/
+
+Rizumu/[Ll]ibrary/
+Rizumu/[Tt]emp/
+Rizumu/[Oo]bj/
+Rizumu/[Bb]uild/
+Rizumu/[Bb]uilds/
+Rizumu/[Ll]ogs/
+Rizumu/[Uu]ser[Ss]ettings/
+
+# Rider
+Rizumu/.idea/
+*.DotSettings.user
+
+# Logs
+*.log
+
+
+# Blender temporary files
+*.blend1
+*.blend1.meta
+
+
+# Unity memory captures / recordings
+Rizumu/[Mm]emoryCaptures/
+Rizumu/[Rr]ecordings/
+
+
+# Visual Studio
+.vs/
+
+# Gradle
+.gradle/
+
+
+# Generated project files
+ExportedObj/
+.consulo/
+
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+
+# Unity generated meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+
+# Crash files
+sysinfo.txt
+mono_crash.*
+
+
+# Build files
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+
+# Test generated scenes
+Rizumu/Assets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+
+# Addressables
+Rizumu/ServerData/
+
+Rizumu/Assets/StreamingAssets/aa*
+Rizumu/Assets/AddressableAssetsData/link.xml*
+Rizumu/Assets/Addressables_Temp*
+Rizumu/Assets/AddressableAssetsData/*/*.bin*
+
+
+# Visual Scripting generated
+Rizumu/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+Rizumu/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+
+Rizumu/Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+Rizumu/Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+
+
+# Unity cache
+Rizumu/Assets/[Ss]ceneDependencyCache*
